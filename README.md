@@ -1,4 +1,4 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://Pragya82001.io)
+[![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)](https://Pragya82001.io)
 <h1 align="center">Hi 👋, I'm Pragya Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
@@ -28,9 +28,9 @@
 
 <hr>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragya82001&show_icons=true&locale=en" alt="pragya82001" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragya82001&show_icons=true&locale=en&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="pragya82001" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragya82001&" alt="pragya82001" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragya82001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="abu-tech" alt="pragya82001" /></p>
 
 <hr>
 
